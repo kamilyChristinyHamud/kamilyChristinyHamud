@@ -1,35 +1,35 @@
 <!--
   ╔══════════════════════════════════════════════════════════════╗
-  ║  VIOLET_SHELL // Kamily Hamud                                ║
-  ║  Paleta: #8B5CF6 (roxo) · #C4B5FD (lilás) · #FF2E88 (rosa)   ║
-  ║           #0D0D0D (preto)                                    ║
+  ║  MATRIX_SHELL // Kamily Hamud                                ║
+  ║  Paleta: #00FF41 (verde neon) · #39FF88 (verde claro)        ║
+  ║           #00CC66 (verde escuro) · #0D0D0D (preto)           ║
   ╚══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
 <h1 align="center">
-  <code style="color:#C4B5FD;">&lt;/&gt;</code>&nbsp;KAMILY&nbsp;HAMUD
+  <code style="color:#00FF41;">&lt;/&gt;</code>&nbsp;KAMILY&nbsp;HAMUD
 </h1>
 <h3 align="center">
-  <span style="color:#C4B5FD;">Estudante de Cibersegurança</span> — Forense Digital &amp; Resposta a Incidentes
+  <span style="color:#39FF88;">Estudante de Cibersegurança</span> — Forense Digital &amp; Resposta a Incidentes
 </h3>
 
-<img src="https://img.shields.io/badge/-LINUX-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/-PYTHON-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/-DOCKER-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/-PENTEST-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/-FORENSICS-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF2E88" />
+<img src="https://img.shields.io/badge/-LINUX-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/-PYTHON-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/-DOCKER-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/-PENTEST-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/-FORENSICS-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=00CC66" />
 
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&lines=Estudante+de+Ciberseguranca+%7C+PUC-PR+%2F%2F+6o+periodo;Linux+%C2%B7+Docker+%C2%B7+Python+%C2%B7+Wireshark+%C2%B7+PKI;Estudando+analise+de+malware%2C+pentest+e+forense+digital;Construindo+um+sistema+PAM+com+Docker%2C+PKI+e+MFA;Red+team+mindset%2C+blue+team+discipline.&v=2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=39FF88&center=true&vCenter=true&width=720&lines=Estudante+de+Ciberseguranca+%7C+PUC-PR+%2F%2F+6o+periodo;Linux+%C2%B7+Docker+%C2%B7+Python+%C2%B7+Wireshark+%C2%B7+PKI;Estudando+analise+de+malware%2C+pentest+e+forense+digital;Construindo+um+sistema+PAM+com+Docker%2C+PKI+e+MFA;Red+team+mindset%2C+blue+team+discipline.&v=2" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:00FF41,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
 
 </div>
 
@@ -55,7 +55,7 @@ class KamilyHamud:
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:00FF41,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
 </div>
 
 ## `02 // ARSENAL`
@@ -64,78 +64,78 @@ class KamilyHamud:
 <tr>
 <td valign="top"><b>SEGURANÇA</b></td>
 <td>
-<img src="https://img.shields.io/badge/Pentest_Web-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/IDS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/PAM-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/MFA-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/Criptografia_RSA_+_AES-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/Wireshark-0D0D0D?style=flat-square&logo=wireshark&logoColor=C4B5FD&labelColor=0D0D0D&color=8B5CF6" />
+<img src="https://img.shields.io/badge/Pentest_Web-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/IDS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/PAM-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/MFA-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/Criptografia_RSA_+_AES-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/Wireshark-0D0D0D?style=flat-square&logo=wireshark&logoColor=39FF88&labelColor=0D0D0D&color=00FF41" />
 </td>
 </tr>
 <tr>
 <td valign="top"><b>INFRAESTRUTURA</b></td>
 <td>
-<img src="https://img.shields.io/badge/Linux-0D0D0D?style=flat-square&logo=linux&logoColor=C4B5FD&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=C4B5FD&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/Zabbix-0D0D0D?style=flat-square&logo=zabbix&logoColor=C4B5FD&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/OpenSSH-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/Active_Directory-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/Azure-0D0D0D?style=flat-square&logo=microsoftazure&logoColor=C4B5FD&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/Virtualização-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C4B5FD" />
+<img src="https://img.shields.io/badge/Linux-0D0D0D?style=flat-square&logo=linux&logoColor=39FF88&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/Docker-0D0D0D?style=flat-square&logo=docker&logoColor=39FF88&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/Zabbix-0D0D0D?style=flat-square&logo=zabbix&logoColor=39FF88&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/OpenSSH-0D0D0D?style=flat-square&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/Active_Directory-0D0D0D?style=flat-square&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/Azure-0D0D0D?style=flat-square&logo=microsoftazure&logoColor=39FF88&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/Virtualização-0D0D0D?style=flat-square&labelColor=0D0D0D&color=39FF88" />
 </td>
 </tr>
 <tr>
 <td valign="top"><b>REDES &amp; PROTOCOLOS</b></td>
 <td>
-<img src="https://img.shields.io/badge/TCP%2FIP-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/DNS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/SSH-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/PKI-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/VPN-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/Firewall-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
+<img src="https://img.shields.io/badge/TCP%2FIP-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/DNS-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/SSH-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/PKI-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/VPN-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/Firewall-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
 </td>
 </tr>
 <tr>
 <td valign="top"><b>DESENVOLVIMENTO</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=C4B5FD&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=C4B5FD&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=C4B5FD&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/PHP-0D0D0D?style=flat-square&logo=php&logoColor=C4B5FD&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=C4B5FD&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css3&logoColor=C4B5FD&labelColor=0D0D0D&color=C4B5FD" />
-<img src="https://img.shields.io/badge/Contiki--NG-0D0D0D?style=flat-square&labelColor=0D0D0D&color=C4B5FD" />
+<img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=39FF88&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=39FF88&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=39FF88&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/PHP-0D0D0D?style=flat-square&logo=php&logoColor=39FF88&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=39FF88&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css3&logoColor=39FF88&labelColor=0D0D0D&color=39FF88" />
+<img src="https://img.shields.io/badge/Contiki--NG-0D0D0D?style=flat-square&labelColor=0D0D0D&color=39FF88" />
 </td>
 </tr>
 <tr>
 <td valign="top"><b>FERRAMENTAS</b></td>
 <td>
-<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=FF2E88&labelColor=0D0D0D&color=FF2E88" />
-<img src="https://img.shields.io/badge/Scrum-0D0D0D?style=flat-square&labelColor=0D0D0D&color=FF2E88" />
-<img src="https://img.shields.io/badge/Google_Authenticator-0D0D0D?style=flat-square&labelColor=0D0D0D&color=FF2E88" />
-<img src="https://img.shields.io/badge/TryHackMe-0D0D0D?style=flat-square&logo=tryhackme&logoColor=FF2E88&labelColor=0D0D0D&color=FF2E88" />
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=00CC66&labelColor=0D0D0D&color=00CC66" />
+<img src="https://img.shields.io/badge/Scrum-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00CC66" />
+<img src="https://img.shields.io/badge/Google_Authenticator-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00CC66" />
+<img src="https://img.shields.io/badge/TryHackMe-0D0D0D?style=flat-square&logo=tryhackme&logoColor=00CC66&labelColor=0D0D0D&color=00CC66" />
 </td>
 </tr>
 <tr>
 <td valign="top"><b>CONFORMIDADE</b></td>
 <td>
-<img src="https://img.shields.io/badge/LGPD-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/ISO_27001-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/ISO_27017%2F18-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/NIST_CSF-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/CIS_Controls-0D0D0D?style=flat-square&labelColor=0D0D0D&color=8B5CF6" />
+<img src="https://img.shields.io/badge/LGPD-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/ISO_27001-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/ISO_27017%2F18-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/NIST_CSF-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/CIS_Controls-0D0D0D?style=flat-square&labelColor=0D0D0D&color=00FF41" />
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:00FF41,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
 </div>
 
 ## `03 // TERMINAL`
 
 ```bash
-> booting VIOLET_SHELL v6.0 ...
+> booting MATRIX_SHELL v6.0 ...
 
 [ OK ] Identity verified ......................... kamily.hamud
 [ OK ] Security modules loaded ................... IDS · MFA · PAM
@@ -156,7 +156,7 @@ STATUS      : ONLINE // aberta a oportunidades de estágio
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:00FF41,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
 </div>
 
 ## `04 // FEATURED_PROJECT`
@@ -165,7 +165,7 @@ STATUS      : ONLINE // aberta a oportunidades de estágio
 <tr>
 <td>
 
-### 🟣 Sistema de Gerenciamento de Acesso Privilegiado (PAM)
+### 🟢 Sistema de Gerenciamento de Acesso Privilegiado (PAM)
 
 Ambiente de **acesso privilegiado containerizado**, construído como projeto acadêmico.
 Une infraestrutura em Docker, uma PKI própria e autenticação forte para controlar
@@ -178,25 +178,25 @@ quem entra, por onde entra e com qual certificado.
 - **Autenticação multifator (MFA)** via Google Authenticator
 - **Interface web** para gerenciamento e controle de acessos
 
-<img src="https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=C4B5FD&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/PKI_RSA_4096-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/OpenSSH-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/MFA-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
-<img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=C4B5FD&labelColor=0D0D0D&color=8B5CF6" />
+<img src="https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=39FF88&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/PKI_RSA_4096-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/OpenSSH-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/MFA-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=00FF41" />
+<img src="https://img.shields.io/badge/Linux-0D0D0D?style=for-the-badge&logo=linux&logoColor=39FF88&labelColor=0D0D0D&color=00FF41" />
 
 <br><br>
 
 <a href="https://github.com/kamilyChristinyHamud/COLOQUE-O-REPO-AQUI">
-  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-0D0D0D?style=for-the-badge&logo=github&logoColor=F5F3FF&labelColor=0D0D0D&color=8B5CF6" />
+  <img src="https://img.shields.io/badge/ABRIR_REPOSITÓRIO-0D0D0D?style=for-the-badge&logo=github&logoColor=E8FFE8&labelColor=0D0D0D&color=00FF41" />
 </a>
-<img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=FF2E88" />
+<img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=00CC66" />
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:00FF41,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
 </div>
 
 ## `05 // PROJECT_ARCHIVE`
@@ -211,7 +211,7 @@ quem entra, por onde entra e com qual certificado.
 | `04` | **Aplicação Web com Criptografia Híbrida** | Proteção de dados sensíveis com esquema híbrido de criptografia | RSA + AES, Web |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:00FF41,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
 </div>
 
 ## `06 // CONNECT`
@@ -219,25 +219,25 @@ quem entra, por onde entra e com qual certificado.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/kamily-hamud/">
-  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=F5F3FF&labelColor=0D0D0D&color=8B5CF6" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=E8FFE8&labelColor=0D0D0D&color=00FF41" />
 </a>
 <a href="https://github.com/kamilyChristinyHamud">
-  <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=F5F3FF&labelColor=0D0D0D&color=8B5CF6" />
+  <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=E8FFE8&labelColor=0D0D0D&color=00FF41" />
 </a>
 <a href="https://tryhackme.com/p/kamily.christiny">
-  <img src="https://img.shields.io/badge/TryHackMe-0D0D0D?style=for-the-badge&logo=tryhackme&logoColor=F5F3FF&labelColor=0D0D0D&color=C4B5FD" />
+  <img src="https://img.shields.io/badge/TryHackMe-0D0D0D?style=for-the-badge&logo=tryhackme&logoColor=E8FFE8&labelColor=0D0D0D&color=39FF88" />
 </a>
 <a href="https://instagram.com/kamilyhamud">
-  <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=F5F3FF&labelColor=0D0D0D&color=FF2E88" />
+  <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E8FFE8&labelColor=0D0D0D&color=00CC66" />
 </a>
 <a href="mailto:kamily.hamud2016@gmail.com">
-  <img src="https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=F5F3FF&labelColor=0D0D0D&color=FF2E88" />
+  <img src="https://img.shields.io/badge/E--mail-0D0D0D?style=for-the-badge&logo=gmail&logoColor=E8FFE8&labelColor=0D0D0D&color=00CC66" />
 </a>
 
 <br><br>
 
 <sub><code>> connection established // Curitiba, PR — BR</code></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C4B5FD,50:8B5CF6,100:0D0D0D&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF88,50:00FF41,100:0D0D0D&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
