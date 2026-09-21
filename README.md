@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:8B5CF6,100:C4B5FD&height=220&section=header&text=KAMILY%20HAMUD&fontColor=F5F3FF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Digital%20Forensics%20%26%20Incident%20Response&descAlignY=58&descSize=16" width="100%" alt="Kamily Hamud" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:8B5CF6,100:C4B5FD&height=220&section=header&text=KAMILY%20HAMUD&fontColor=F5F3FF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Digital%20Forensics%20%26%20Incident%20Response&descAlignY=58&descSize=16&v=2" width="100%" alt="Kamily Hamud" />
 
 <img src="https://img.shields.io/badge/-LINUX-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
 <img src="https://img.shields.io/badge/-PYTHON-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
@@ -19,7 +19,7 @@
 <br><br>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&lines=Estudante+de+Cibersegurança+%7C+PUC-PR+%2F%2F+6º+período;Linux+%C2%B7+Docker+%C2%B7+Python+%C2%B7+Wireshark+%C2%B7+PKI;Estudando+análise+de+malware%2C+pentest+e+forense+digital;Construindo+um+sistema+PAM+com+Docker%2C+PKI+e+MFA;Red+team+mindset%2C+blue+team+discipline." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=720&lines=Estudante+de+Ciberseguranca+%7C+PUC-PR+%2F%2F+6o+periodo;Linux+%C2%B7+Docker+%C2%B7+Python+%C2%B7+Wireshark+%C2%B7+PKI;Estudando+analise+de+malware%2C+pentest+e+forense+digital;Construindo+um+sistema+PAM+com+Docker%2C+PKI+e+MFA;Red+team+mindset%2C+blue+team+discipline.&v=2" alt="Typing SVG" />
 </a>
 
 <br>
