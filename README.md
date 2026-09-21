@@ -8,18 +8,7 @@
 
 <div align="center">
 
-<svg width="100%" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kamily Hamud banner">
-  <defs>
-    <linearGradient id="emberBg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0D0D0D"/>
-      <stop offset="55%" stop-color="#FF2E88"/>
-      <stop offset="100%" stop-color="#8B5CF6"/>
-    </linearGradient>
-  </defs>
-  <rect width="900" height="170" rx="0" fill="url(#emberBg)"/>
-  <text x="450" y="82" font-family="'Courier New', monospace" font-size="46" font-weight="bold" fill="#F5F3FF" text-anchor="middle">KAMILY HAMUD</text>
-  <text x="450" y="122" font-family="'Courier New', monospace" font-size="17" fill="#F5F3FF" text-anchor="middle">Estudante de Ciberseguranca // Forense Digital &amp; Resposta a Incidentes</text>
-</svg>
+<img width="100%" alt="Kamily Hamud banner" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAwIiBoZWlnaHQ9IjE3MCIgdmlld0JveD0iMCAwIDkwMCAxNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImVtYmVyQmciIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzBEMEQwRCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjU1JSIgc3RvcC1jb2xvcj0iI0ZGMkU4OCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM4QjVDRjYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI5MDAiIGhlaWdodD0iMTcwIiBmaWxsPSJ1cmwoI2VtYmVyQmcpIi8+CiAgPHRleHQgeD0iNDUwIiB5PSI4MiIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI0NiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IiNGNUYzRkYiIHRleHQtYW5jaG9yPSJtaWRkbGUiPktBTUlMWSBIQU1VRDwvdGV4dD4KICA8dGV4dCB4PSI0NTAiIHk9IjEyMiIgZm9udC1mYW1pbHk9IidDb3VyaWVyIE5ldycsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNyIgZmlsbD0iI0Y1RjNGRiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RXN0dWRhbnRlIGRlIENpYmVyc2VndXJhbmNhIC8vIEZvcmVuc2UgRGlnaXRhbCAmYW1wOyBSZXNwb3N0YSBhIEluY2lkZW50ZXM8L3RleHQ+Cjwvc3ZnPgo=" />
 
 <img src="https://img.shields.io/badge/-LINUX-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
 <img src="https://img.shields.io/badge/-PYTHON-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
