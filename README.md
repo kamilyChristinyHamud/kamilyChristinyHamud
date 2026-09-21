@@ -200,7 +200,7 @@ quem entra, por onde entra e com qual certificado.
 
 | # | Projeto | O que envolveu | Tecnologias |
 |:--|:--|:--|:--|
-| `01` | **CTF & Segurança Ofensiva** | Participação em CTFs e exploração de SQL Injection, XSS, CSRF e Buffer Overflow | Pentest web, Linux |
+| `01` | **Laboratório de Pentest** | Exercícios práticos de exploração de SQL Injection, XSS, CSRF e Buffer Overflow | Pentest web, Linux |
 | `02` | **Monitoramento de Servidores Linux** | Administração de servidores com alertas, métricas e dashboards | Linux, Zabbix |
 | `03` | **Desenvolvimento IoT** | Programação de dispositivos em redes de sensores sem fio (WSN) | Contiki-NG, C |
 | `04` | **Aplicação Web com Criptografia Híbrida** | Proteção de dados sensíveis com esquema híbrido de criptografia | RSA + AES, Web |
@@ -209,24 +209,7 @@ quem entra, por onde entra e com qual certificado.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
 </div>
 
-## `06 // SYSTEM_METRICS`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kamilyChristinyHamud&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=C4B5FD&text_color=F5F3FF&icon_color=8B5CF6&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilyChristinyHamud&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=C4B5FD&text_color=F5F3FF&langs_count=8" alt="Top Languages" />
-
-<br>
-
-<img height="165" src="https://streak-stats.demolab.com?user=kamilyChristinyHamud&hide_border=true&background=0D0D0D&stroke=8B5CF6&ring=C4B5FD&fire=FF2E88&currStreakLabel=C4B5FD&sideLabels=F5F3FF&dates=8B5CF6&currStreakNum=F5F3FF&sideNums=F5F3FF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
-</div>
-
-## `07 // CONTRIBUTION_MATRIX`
+## `06 // CONTRIBUTION_MATRIX`
 
 <div align="center">
 
@@ -238,7 +221,7 @@ quem entra, por onde entra e com qual certificado.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
 </div>
 
-## `08 // CONNECT`
+## `07 // CONNECT`
 
 <div align="center">
 
@@ -251,7 +234,7 @@ quem entra, por onde entra e com qual certificado.
 <a href="https://tryhackme.com/p/kamily.christiny">
   <img src="https://img.shields.io/badge/TryHackMe-0D0D0D?style=for-the-badge&logo=tryhackme&logoColor=F5F3FF&labelColor=0D0D0D&color=C4B5FD" />
 </a>
-<a href="https://instagram.com/SEU_USUARIO">
+<a href="https://instagram.com/kamilyhamud">
   <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=F5F3FF&labelColor=0D0D0D&color=FF2E88" />
 </a>
 <a href="mailto:kamily.hamud2016@gmail.com">
