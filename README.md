@@ -214,19 +214,7 @@ quem entra, por onde entra e com qual certificado.
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
 </div>
 
-## `06 // CONTRIBUTION_MATRIX`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kamilyChristinyHamud&hide_border=true&bg_color=0D0D0D&color=C4B5FD&line=8B5CF6&point=FF2E88&area=true&area_color=8B5CF6" width="100%" alt="Activity Graph" />
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:8B5CF6,100:0D0D0D&height=3&section=header" width="100%" alt="divider" />
-</div>
-
-## `07 // CONNECT`
+## `06 // CONNECT`
 
 <div align="center">
 
