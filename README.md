@@ -9,12 +9,18 @@
 
 <div align="center">
 
-<h1 align="center">
-  <code style="color:#D97757;">&lt;/&gt;</code>&nbsp;<span style="color:#FFFFFF;">KAMILY&nbsp;HAMUD</span>
-</h1>
-<h3 align="center">
-  <span style="color:#F0A283;">Estudante de Cibersegurança</span> — <span style="color:#FFFFFF;">Forense Digital &amp; Resposta a Incidentes</span>
-</h3>
+<svg width="100%" height="170" viewBox="0 0 900 170" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kamily Hamud banner">
+  <defs>
+    <linearGradient id="emberBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0D0D0D"/>
+      <stop offset="55%" stop-color="#B54B2C"/>
+      <stop offset="100%" stop-color="#D97757"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="170" rx="20" fill="url(#emberBg)"/>
+  <text x="450" y="82" font-family="'Courier New', monospace" font-size="46" font-weight="bold" fill="#FFFFFF" text-anchor="middle">KAMILY HAMUD</text>
+  <text x="450" y="122" font-family="'Courier New', monospace" font-size="17" fill="#FFFFFF" text-anchor="middle">Estudante de Ciberseguranca // Forense Digital &amp; Resposta a Incidentes</text>
+</svg>
 
 <img src="https://img.shields.io/badge/-LINUX-0D0D0D?style=plastic&labelColor=0D0D0D&color=D97757" />
 <img src="https://img.shields.io/badge/-PYTHON-0D0D0D?style=plastic&labelColor=0D0D0D&color=D97757" />
