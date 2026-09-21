@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:8B5CF6,100:C4B5FD&height=220&section=header&text=KAMILY%20HAMUD&fontColor=F5F3FF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Digital%20Forensics%20%26%20Incident%20Response&descAlignY=58&descSize=16&v=2" width="100%" alt="Kamily Hamud" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B5CF6,100:C4B5FD&height=220&section=header&text=KAMILY%20HAMUD&fontColor=F5F3FF&fontSize=58&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Digital%20Forensics%20%26%20Incident%20Response&descAlignY=58&descSize=16&v=3" width="100%" alt="Kamily Hamud" />
 
 <img src="https://img.shields.io/badge/-LINUX-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
 <img src="https://img.shields.io/badge/-PYTHON-0D0D0D?style=for-the-badge&labelColor=0D0D0D&color=8B5CF6" />
