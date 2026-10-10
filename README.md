@@ -10,23 +10,11 @@
 
 ## Sobre Mim
 
-Meu nome e Kamily Christiny Hamud, sou estudante de Ciberseguranca na PUCPR. Atualmente, foco meus estudos em seguranca da informacao, programacao e na criacao de solucoes eficientes e protegidas.
+Meu nome é Kamily Christiny Hamud, sou estudante de Cibersegurança na PUCPR. Atualmente, foco meus estudos em segurança da informação, programação e na criação de soluções eficientes e protegidas.
 
-- Cursando Ciberseguranca na Pontificia Universidade Catolica do Parana (PUCPR).
-- Explorando o ecossistema de desenvolvimento e seguranca defensiva/ofensiva.
-- Sempre em busca de novos desafios tecnicos e aprendizados praticos na area tech.
-
----
-
-## Tecnologias
-
-<div align="center">
-
-| Categoria | Tecnologias |
-| :---: | :--- |
-| **Linguagens** | `![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)` `![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)` |
-
-</div>
+- Cursando Cibersegurança na Pontifícia Universidade Católica do Paraná (PUCPR).
+- Explorando o ecossistema de desenvolvimento e segurança defensiva/ofensiva.
+- Sempre em busca de novos desafios técnicos e aprendizados práticos na área tech.
 
 ---
 
@@ -40,7 +28,7 @@ Meu nome e Kamily Christiny Hamud, sou estudante de Ciberseguranca na PUCPR. Atu
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://kamilyhamud.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfólio-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
   </a>
 </div>
 
