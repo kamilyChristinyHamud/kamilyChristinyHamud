@@ -12,7 +12,7 @@
 
 Meu nome é Kamily Hamud, sou estudante de Cibersegurança na PUCPR. Sou entusiasta e tenho grande interesse na área de Inteligência Artificial e Machine Learning, buscando unir o desenvolvimento inteligente à segurança da informação.
 
-- Desenvolvimento seguro.
+- Estudos e práticas em cibersegurança.
 - Explorando o ecossistema de desenvolvimento e segurança defensiva/ofensiva.
 - Sempre em busca de novos desafios técnicos e aprendizados práticos na área tech.
 
