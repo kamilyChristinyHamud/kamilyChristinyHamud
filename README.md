@@ -3,16 +3,17 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;Ethical+Hacking+Enthusiast;Building+Secure+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Cybersecurity+Student;AI+%26+Machine+Learning+Enthusiast;Building+Secure+Applications" alt="Typing Animation" />
 </p>
 
 ---
 
 ## Sobre Mim
 
-Meu nome é Kamily Christiny Hamud, sou estudante de Cibersegurança na PUCPR. Atualmente, foco meus estudos em segurança da informação, programação e na criação de soluções eficientes e protegidas.
+Meu nome é Kamily Christiny Hamud, sou estudante de Cibersegurança na PUCPR. Sou entusiasta e tenho grande interesse na área de Inteligência Artificial e Machine Learning, buscando unir o desenvolvimento inteligente à segurança da informação.
 
 - Cursando Cibersegurança na Pontifícia Universidade Católica do Paraná (PUCPR).
+- Entusiasta de Inteligência Artificial e Machine Learning.
 - Explorando o ecossistema de desenvolvimento e segurança defensiva/ofensiva.
 - Sempre em busca de novos desafios técnicos e aprendizados práticos na área tech.
 
