@@ -10,7 +10,7 @@
 
 ## Sobre Mim
 
-Meu nome é Kamily Christiny Hamud, sou estudante de Cibersegurança na PUCPR. Sou entusiasta e tenho grande interesse na área de Inteligência Artificial e Machine Learning, buscando unir o desenvolvimento inteligente à segurança da informação.
+Meu nome é Kamily Hamud, sou estudante de Cibersegurança na PUCPR. Sou entusiasta e tenho grande interesse na área de Inteligência Artificial e Machine Learning, buscando unir o desenvolvimento inteligente à segurança da informação.
 
 - Cursando Cibersegurança na Pontifícia Universidade Católica do Paraná (PUCPR).
 - Explorando o ecossistema de desenvolvimento e segurança defensiva/ofensiva.
